@@ -2,7 +2,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Azure-Network-Protocols)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Daniel-Rodriguez95/Azure-Network-Protocols)
 
 <h2> Certifications</h2>
 
