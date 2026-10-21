@@ -1,8 +1,8 @@
 <h1>Hi, I'm Daniel! 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 
-  - [Active Directory Home Lab](https://github.com/Daniel-Rodriguez95)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Daniel-Rodriguez95)
 
 <h2> Certifications</h2>
 
