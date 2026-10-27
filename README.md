@@ -3,7 +3,7 @@
 
 
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Azure-Compute-Networking)
-    <h2>[Active Directory](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Active-Directory)</h2>
+    <br />Active Directory(https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Active-Directory)
   - [Preparing AD Infrastructure  in Azure](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Active-Directory)  
   - [Deploying Active Directory]
   - [Creating Users with Powershell]
