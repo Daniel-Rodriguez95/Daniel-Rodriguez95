@@ -9,6 +9,8 @@
   - [Deploying Active Directory](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Active-Directory/Deploying-AD)
   - [Creating Users with Powershell](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Active-Directory/Create-Users-PowerShell)
   - [Group Policy and Managing Accounts](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Active-Directory/Group-Policy-Managing-Accounts)
+  
+  
   <h2>Ticketing Systems</h2>
   -[osTicket Installation]
   -[Post-Installation Setup]
