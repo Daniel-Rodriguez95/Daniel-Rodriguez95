@@ -27,7 +27,7 @@
   - [Simulating Tickets]
   
   
-<h2> Certifications</h2>
+<h2> </h2>
 
 
 
