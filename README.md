@@ -18,7 +18,7 @@
 
  <h2>Ticketing Systems</h2>
   
-  - [osTicket Installation]
+  - [osTicket Installation](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/blob/main/Ticketing-Systems/osTicket-Installation/README.md)
   
   - [Post-Installation Setup]
   
@@ -40,7 +40,6 @@
 [linkedin]: https://linkedin.com/in/rodriguezdanielrv
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
