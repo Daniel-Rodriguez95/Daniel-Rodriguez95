@@ -20,7 +20,7 @@
   
   - [osTicket Installation](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/blob/main/Ticketing-Systems/osTicket-Installation/README.md)
   
-  - [Post-Installation Setup]
+  - [Post-Installation Setup](https://github.com/Daniel-Rodriguez95/IT-Home-Labs/tree/main/Ticketing-Systems/Post-Installation)
   
   - [Tickets and Ticket Lifecycle]
   
